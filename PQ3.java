@@ -1,3 +1,8 @@
+//     0
+//    101
+//   21012
+//  3210123
+// 432101234
 public class PQ3 {
     public static void main(String[] args) {
         int n = 5;
