@@ -1,3 +1,8 @@
+// 1 
+// 2 4 
+// 3 5 7 
+// 6 8 10 12 
+// 9 11 13 15 17 
 public class PQ4 {
     public static void main(String[] args) {
         int n = 5;
